@@ -1,22 +1,7 @@
 #!/usr/bin/ python3
 # -*- coding: UTF-8 -*-
-# Takayuki Kaisen
-# How to use #####
-# $python3 1-1.py 10
+# Author: Takayuki Kaisen
 #
-#### How to provide an answer to each question #####
-#
-# Q1.What is the mean of your total payment for N=10? 
-# Q2.What is the standard deviation of your total payment for N=10? 
-# Ans. Computational complexity when using brute force is 3628800, i.e., O(10^6), therefore, we can compute directly
-# Q3.What is the mean of your total payment for N=20?
-# Q4. What is the standard deviation of your total payment for N=20?
-# Ans. Computational complexity when using brute force is 2432902008176640000, i.e., O(10^18), therefore ,we cannot compute with brute force method
-#      Using Mote Carlo method can be used to infer mean and standard deviation
-# Q5. What is the probability that your total payment is greater than or equal to 45 for N=10?
-# Ans. we can compute sample space and the number of cases where total payment is greater than or equal to 45, therefore, we can gain result from direct computation.
-# Q6. What is the probability that your total payment is greater than or equal to 160 for N=20?
-# Ans. 1. Infer probability density function 2. Integrate the function and calculate the probability where total payment is greater than or equal to 160.
 
 import numpy as np
 
@@ -108,4 +93,3 @@ if __name__ == "__main__":
         print("The number of given arguments is wrong. \nYou should give only one argument.\n")
         sys.exit()
     main(int(n))
-
