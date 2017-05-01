@@ -95,7 +95,7 @@ def main(n):
                                            tmp1 = 0
                                            result.append(sum(seq))
                                            #print(used_nums)
-                                           #print(seq)
+                                           print(seq)
     print(np.mean(result))
 
 
