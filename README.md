@@ -27,7 +27,7 @@ TBA <br>
 How to provide an answer to the question:<br>
 Computational complexity when using brute force is 2432902008176640000, i.e., O(10^18), therefore ,we cannot compute with brute force method<br><br>
 
-source code:
+source code:<br>
 1-3.py (Monte Carlo method approach) <br>
 
 How to use: <br>
