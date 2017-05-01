@@ -14,9 +14,9 @@
 # Ans. Computational complexity when using brute force is 2432902008176640000, i.e., O(10^18), therefore ,we cannot compute with brute force method
 #      Using Mote Carlo method can be used to infer mean and standard deviation
 # Q5. What is the probability that your total payment is greater than or equal to 45 for N=10?
-# Ans. we can compute sample space and the number of cases where total payment is greater than or equal to 45, therefore, we can gain result from direct computation.
+# we can compute sample space and the number of cases where total payment is greater than or equal to 45, therefore, we can gain result from direct computation.
 # Q6. What is the probability that your total payment is greater than or equal to 160 for N=20?
-# Ans. 1. Infer probability density function 2. Integrate the function and calculate the probability where total payment is greater than or equal to 160.
+# 1. Infer probability density function 2. Integrate the function and calculate the probability where total payment is greater than or equal to 160.
 
 import numpy as np
 
