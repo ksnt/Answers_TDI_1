@@ -12,8 +12,8 @@ source code:<br>
 1-2.py (Monte Carlo method approach)
 
 How to use:<br>
-$python 1-1.py 10<br>
-$python 1-2.py <br>
+$python 1-1.py 10 #Brute Force approach - Note: this does not work well because counting method is wrong<br>
+$python 1-2.py    #Monte Carlo method approach<br>
 
 ## Q2.What is the standard deviation of your total payment for N=10?
 
