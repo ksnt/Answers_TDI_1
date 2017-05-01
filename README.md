@@ -53,7 +53,9 @@ $python 1-5.py <br>
 ## Q5. What is the probability that your total payment is greater than or equal to 45 for N=10?
 
 How to provide an answer to the question:<br>
-we can compute sample space and the number of cases where total payment is greater than or equal to 45, therefore, we can gain result from direct computation. (NOTE: I did get my answer in an another way, but this approach also might be good)<br><br>
+1. we can compute sample space and the number of cases where total payment is greater than or equal to 45, therefore, we can gain result from direct computation. (NOTE: I did get my answer in an another way, but this approach also might be good)
+2. Just calculate upper probability when total payment is greater than or equal to 160 to normal distribution.
+<br><br>
 
 How to solve:<br>
 I just caclculated upper probability when total payment is greater than or equal to 160. I used mean value and standard deviation earned through previous questions for this calculus.<br>
