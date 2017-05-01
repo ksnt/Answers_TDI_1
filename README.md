@@ -62,9 +62,8 @@ I just caclculated upper probability when total payment is greater than or equal
 ## Q6. What is the probability that your total payment is greater than or equal to 160 for N=20?
 
 How to provide an answer to the question:<br>
-1. Infer probability density function
-2. Integrate the function and calculate the probability where total payment is greater than or equal to 160.<br>
-(NOTE: I did get my answer in an another way, but this approach also might be good)<br><br>
+1. Infer probability density function, then integrate the function and calculate the probability where total payment is greater than or equal to 160.(NOTE: I did get my answer in an another way, but this approach also might be good)
+2. Just calculate upper probability when total payment is greater than or equal to 160 to normal distribution.<br><br>
 
 How to solve:<br>
 I just caclculated upper probability when total payment is greater than or equal to 160. I used mean value and standard deviation earned through previous questions for this calculus.<br>
