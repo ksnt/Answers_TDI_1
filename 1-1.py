@@ -2,12 +2,9 @@
 # -*- coding: UTF-8 -*-
 # Author: Takayuki Kaisen
 #
+# Brute force approach
 
 import numpy as np
-
-def fact(n):
-    if(n==0): 1
-    else: n * fact(n-1)
     
 def main(n):
     nums = set([i for i in range(1,n+1)])
